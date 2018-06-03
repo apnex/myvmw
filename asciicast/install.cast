@@ -1,0 +1,30 @@
+{
+  "title": null,
+  "env": {
+    "TERM": "xterm-256color",
+    "SHELL": "/bin/bash"
+  },
+  "version": 1,
+  "stdout": [
+    [
+      0.060204,
+      "\u001b]777;notify;Command completed;docker run apnex/myvmw install > install.sh\u0007\u001b]0;apnex@obpc:/home/apnex/vmware/lab/nuc/docker/git/myvmw/asciicast\u0007\u001b]7;file://obpc/home/apnex/vmware/lab/nuc/docker/git/myvmw/asciicast\u0007"
+    ],
+    [
+      0.000134,
+      "[root@obpc asciicast]# "
+    ],
+    [
+      0.370647,
+      "docker run apnex/myvmw install > install.sh"
+    ],
+    [
+      0.508234,
+      "\r\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[K"
+    ]
+  ],
+  "width": 211,
+  "height": 52,
+  "duration": 0.940186,
+  "command": null
+}

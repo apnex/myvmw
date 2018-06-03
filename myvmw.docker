@@ -1,0 +1,19 @@
+FROM centos
+RUN yum -y update && yum -y install \
+	perl \
+	cpanminus \
+	perl-Data-Dumper \
+	perl-LWP-Protocol-https \
+	&& yum clean all
+
+RUN cpanm Fatal \
+	HTTP::Cookies \
+	LWP::UserAgent \
+	URI::Encode \
+	Digest::MD5::File \
+	HTML::TableExtract \
+	JSON::PP
+	
+ADD ["./layout.tar.gz", "/"]
+#RUN /root/vmware-vsphere-cli-distrib/install.sh
+ENTRYPOINT ["/root/start.sh"]

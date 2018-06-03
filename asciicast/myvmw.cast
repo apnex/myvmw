@@ -1,0 +1,106 @@
+{
+	"duration": 1,
+	"version": 1,
+	"title": null,
+	"stdout": [
+		[
+			0.000139,
+			"[root@obpc ~]# "
+		],
+		[
+			1.136895,
+			"m"
+		],
+		[
+			0.157782,
+			"y"
+		],
+		[
+			0.420602,
+			"v"
+		],
+		[
+			0.309972,
+			"m"
+		],
+		[
+			0.419716,
+			"w"
+		],
+		[
+			1.462619,
+			"\r\n"
+		],
+		[
+			0.456423,
+			"Realigning inertial dampeners for: https://my.vmware.com\r\n"
+		],
+		[
+			1.000373,
+			"Commencing molecular convergence of transient loop systems...\r\n"
+		],
+		[
+			8.315572,
+			"Building product index\r\n"
+		],
+		[
+			1.357179,
+			"name                                                               link\r\n-----------------------------------------------------------------  ------------------------------------------------------------------------------------------------------------\r\nPivotal App Suite                                                  ./info/slug/application_platform/pivotal_app_suite/2_0\r\nPivotal CF Mobile Services                                         ./info/slug/application_platform/pivotal_cf_mobile_services/1_0\r\nPivotal CF Services                                                ./info/slug/application_platform/pivotal_cf_services/1_0\r\nPivotal Cloud Foundry                                              ./info/slug/application_platform/pivotal_cloud_foundry/1_0\r\nPivotal GemFire                                                    ./info/slug/application_platform/pivotal_gemfire/9_0\r\nPivotal GemFireXD                                                  ./info/slug/application_platform/pivotal_gemfirexd/1_0\r\nPivotal RabbitMQ       "
+		],
+		[
+			2.4e-05,
+			"                                            ./info/slug/application_platform/pivotal_rabbitmq/3_5\r\nPivotal tc Server                                                  ./info/slug/application_platform/pivotal_tc_server/3_1\r\nPivotal WebServer                                                  ./info/slug/application_platform/pivotal_webserver/6_0\r\nVMware App Volumes                                                 ./info/slug/desktop_end_user_computing/vmware_app_volumes/3_x\r\nVMware AppDefense                                                  ./info/slug/infrastructure_as_a_service/vmware_appdefense/1_0\r\nVMware Cloud Foundation                                            ./info/slug/datacenter_cloud_infrastructure/vmware_cloud_foundation/2_3\r\nVMware Cloud on AWS                                                ./info/slug/infrastructure_as_a_service/vmware_cloud_on_aws/1_4\r\nVMware Fusion                                                      ./info/slug/desktop_end_user_computing/vmware_fusion/10_0\r\nVMware Horizon       "
+		],
+		[
+			1.8e-05,
+			"                                              ./info/slug/desktop_end_user_computing/vmware_horizon/7_5\r\nVMware Horizon (with View)                                         ./info/slug/desktop_end_user_computing/vmware_horizon_with_view/6_0\r\nVMware Horizon Air                                                 ./info/slug/desktop_end_user_computing/vmware_horizon_air/16_6\r\nVMware Horizon Air Hybrid-Mode (with Virtualization)               ./info/slug/desktop_end_user_computing/vmware_horizon_air_hybrid_mode_with_virtualization/1_0\r\nVMware Horizon Apps                                                ./info/slug/desktop_end_user_computing/vmware_horizon_apps/7_5_0\r\nVMware Horizon Clients                                             ./info/slug/desktop_end_user_computing/vmware_horizon_clients/4_0\r\nVMware Horizon Cloud Service                                       ./info/slug/desktop_end_user_computing/vmware_horizon_cloud_service/1_x\r\nVMware Horizon DaaS                                                ./info/slug/desk"
+		],
+		[
+			1.2e-05,
+			"top_end_user_computing/vmware_horizon_daas/8_0\r\nVMware Horizon FLEX                                                ./info/slug/desktop_end_user_computing/vmware_horizon_flex/1_12\r\nVMware Identity Manager                                            ./info/slug/desktop_end_user_computing/vmware_identity_manager/3_2\r\nVMware Integrated OpenStack                                        ./info/slug/infrastructure_operations_management/vmware_integrated_openstack/4_1\r\nVMware Internet of things                                          ./info/slug/internet_of_things_iot/vmware_internet_of_things/1_1\r\nVMware Mirage                                                      ./info/slug/desktop_end_user_computing/vmware_mirage/5_0\r\nVMware NSX                                                         ./info/slug/networking_security/vmware_nsx/6_x\r\nVMware NSX Cloud                                                   ./info/slug/infrastructure_as_a_service/vmware_nsx_cloud/1_0\r\nVMware NSX SD-WAN Edge                                   "
+		],
+		[
+			8.8e-05,
+			"          ./info/slug/networking_security/vmware_nsx_sd_wan_edge/2_5_2\r\nVMware Photon Platform                                             ./info/slug/infrastructure_operations_management/vmware_photon_platform/1_2\r\nVMware Pivotal Container Service                                   ./info/slug/infrastructure_operations_management/vmware_pivotal_container_service/1_0\r\nVMware Site Recovery Manager                                       ./info/slug/infrastructure_operations_management/vmware_site_recovery_manager/8_1\r\nVMware Software Manager                                            ./info/slug/datacenter_cloud_infrastructure/vmware_software_manager/1_5\r\nVMware ThinApp                                                     ./info/slug/desktop_end_user_computing/vmware_thinapp/5_0\r\nVMware TrustPoint                                                  ./info/slug/desktop_end_user_computing/vmware_trustpoint/1_0\r\nVMware Unified Access Gateway                                      ./info/slug/desktop_end_user_computing/vmw"
+		],
+		[
+			1.3e-05,
+			"are_unified_access_gateway/3_3\r\nVMware User Environment Manager                                    ./info/slug/desktop_end_user_computing/vmware_user_environment_manager/9_4\r\nVMware Validated Design for Software-Defined Data Center           ./info/slug/datacenter_cloud_infrastructure/vmware_validated_design_for_software_defined_data_center/4_2\r\nVMware vCenter Converter Standalone                                ./info/slug/infrastructure_operations_management/vmware_vcenter_converter_standalone/6_2_0\r\nVMware vCloud Air                                                  ./info/slug/infrastructure_as_a_service/vmware_vcloud_air/1_0\r\nVMware vCloud Availability for Cloud-to-Cloud DR                   ./info/slug/datacenter_cloud_infrastructure/vmware_vcloud_availability_for_cloud_to_cloud_dr/1_0\r\nVMware vCloud Availability for vCloud Director                     ./info/slug/datacenter_cloud_infrastructure/vmware_vcloud_availability_for_vcloud_director/2_0_0\r\nVMware vCloud Director                                   "
+		],
+		[
+			1.6e-05,
+			"          ./info/slug/datacenter_cloud_infrastructure/vmware_vcloud_director/9_1\r\nVMware vCloud NFV                                                  ./info/slug/datacenter_cloud_infrastructure/vmware_vcloud_nfv/2_1\r\nVMware vCloud NFV OpenStack Edition                                ./info/slug/datacenter_cloud_infrastructure/vmware_vcloud_nfv_openstack_edition/2_0\r\nVMware vCloud Suite                                                ./info/slug/datacenter_cloud_infrastructure/vmware_vcloud_suite/2017\r\nVMware vCloud Usage Meter                                          ./info/slug/datacenter_cloud_infrastructure/vmware_vcloud_usage_meter/3_6_1\r\nVMware vFabric SQLFire                                             ./info/slug/application_platform/vmware_vfabric_sqlfire/1_0\r\nVMware VMmark                                                      ./info/slug/other/vmware_vmmark/3_x\r\nVMware vRealize Automation                                         ./info/slug/infrastructure_operations_management/vmware_vrealize_automation/"
+		],
+		[
+			1.2e-05,
+			"7_4\r\nVMware vRealize Business for Cloud                                 ./info/slug/infrastructure_operations_management/vmware_vrealize_business_for_cloud/7_4\r\nVMware vRealize Code Stream                                        ./info/slug/infrastructure_operations_management/vmware_vrealize_code_stream/2_x\r\nVMware vRealize Hyperic                                            ./info/slug/infrastructure_operations_management/vmware_vrealize_hyperic/5_8\r\nVMware vRealize Log Insight                                        ./info/slug/infrastructure_operations_management/vmware_vrealize_log_insight/4_6\r\nVMware vRealize Network Insight                                    ./info/slug/infrastructure_operations_management/vmware_vrealize_network_insight/3_x\r\nVMware vRealize Operations                                         ./info/slug/infrastructure_operations_management/vmware_vrealize_operations/6_7\r\nVMware vRealize Operations for Horizon and Published Applications  ./info/slug/desktop_end_user_computing/vmware_vreal"
+		],
+		[
+			4.8e-05,
+			"ize_operations_for_horizon_and_published_applications/6_0\r\n"
+		],
+		[
+			0.000438,
+			"VMware vRealize Operations Insight                                 ./info/slug/infrastructure_operations_management/vmware_vrealize_operations_insight/6_1\r\nVMware vRealize Suite                                              ./info/slug/infrastructure_operations_management/vmware_vrealize_suite/2017\r\nVMware vSAN                                                        ./info/slug/datacenter_cloud_infrastructure/vmware_vsan/6_7\r\nVMware vSphere                                                     ./info/slug/datacenter_cloud_infrastructure/vmware_vsphere/6_7\r\nVMware vSphere Data Protection Advanced                            ./info/slug/datacenter_cloud_infrastructure/vmware_vsphere_data_protection_advanced/5_8\r\nVMware vSphere Hypervisor (ESXi)                                   ./info/slug/datacenter_cloud_infrastructure/vmware_vsphere_hypervisor_esxi/6_5\r\nVMware vSphere Integrated Containers                               ./info/slug/datacenter_cloud_infrastructure/vmware_vsphere_integrated_containers/1_4\r\nVMware vS"
+		],
+		[
+			1.8e-05,
+			"phere Storage Appliance                                   ./info/slug/datacenter_cloud_infrastructure/vmware_vsphere_storage_appliance/5_5\r\nVMware vSphere with Operations Management                          ./info/slug/datacenter_cloud_infrastructure/vmware_vsphere_with_operations_management/6_7\r\nVMware Workspace                                                   ./info/slug/desktop_end_user_computing/vmware_workspace/2_0\r\nVMware Workspace ONE                                               ./info/slug/desktop_end_user_computing/vmware_workspace_one/1_0\r\nVMware Workstation Player                                          ./free#desktop_end_user_computing/vmware_workstation_player/14_0\r\nVMware Workstation Pro                                             ./info/slug/desktop_end_user_computing/vmware_workstation_pro/14_0\r\nVMware NSX-T                                                       ./info/slug/networking_security/vmware_nsx/2_x\r\n## 72 items\r\n"
+		],
+		[
+			0.1,
+			"[root@obpc ~]# \r\n"
+		],
+		[
+			5,
+			""
+		]
+	],
+	"height": 52,
+	"command": null,
+	"env": {
+		"SHELL": "/bin/bash",
+		"TERM": "xterm-256color"
+	},
+	"width": 211
+}

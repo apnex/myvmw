@@ -1,0 +1,574 @@
+{
+  "width": 211,
+  "stdout": [
+    [
+      0.063298,
+      "\u001b]777;notify;Command completed;myvmw get VMware-Log-Insight-Importer_4.6.0-7857225.deb\u0007\u001b]0;apnex@obpc:/home/apnex/vmware/lab/nuc/docker/git/myvmw/asciicast\u0007\u001b]7;file://obpc/home/apnex/vmware/lab/nuc/docker/git/myvmw/asciicast\u0007"
+    ],
+    [
+      0.000266,
+      "[root@obpc asciicast]# "
+    ],
+    [
+      1.376702,
+      "m"
+    ],
+    [
+      0.093829,
+      "y"
+    ],
+    [
+      0.237108,
+      "v"
+    ],
+    [
+      0.126298,
+      "m"
+    ],
+    [
+      0.092406,
+      "w"
+    ],
+    [
+      0.13714,
+      " "
+    ],
+    [
+      0.147301,
+      "g"
+    ],
+    [
+      0.18915,
+      "e"
+    ],
+    [
+      0.07936,
+      "t"
+    ],
+    [
+      0.470802,
+      " "
+    ],
+    [
+      1.618153,
+      "V"
+    ],
+    [
+      0.000813,
+      "Mware-Log-Insight"
+    ],
+    [
+      0.000208,
+      "-Im"
+    ],
+    [
+      9.8e-05,
+      "po"
+    ],
+    [
+      0.000681,
+      "rter_4.6.0"
+    ],
+    [
+      5.3e-05,
+      "-"
+    ],
+    [
+      3.9e-05,
+      "7"
+    ],
+    [
+      0.000106,
+      "8"
+    ],
+    [
+      4.5e-05,
+      "5"
+    ],
+    [
+      0.000113,
+      "7"
+    ],
+    [
+      7.3e-05,
+      "2"
+    ],
+    [
+      7.2e-05,
+      "2"
+    ],
+    [
+      0.000112,
+      "5"
+    ],
+    [
+      9.7e-05,
+      "."
+    ],
+    [
+      7.5e-05,
+      "d"
+    ],
+    [
+      7.4e-05,
+      "e"
+    ],
+    [
+      7.2e-05,
+      "b"
+    ],
+    [
+      0.54107,
+      "\r\n"
+    ],
+    [
+      9.097473,
+      "** GET https://my.vmware.com/group/vmware/details?p_p_id=ProductDetailsPortlet_WAR_itdownloadsportlet&p_p_lifecycle=2&p_p_state=normal&p_p_mode=view&p_p_resource_id=downloadFiles&p_p_cacheability=cacheLevelPage&p_p_col_id=column-6&p_p_col_count=1&vmware=downloadBinary&uuId=652fbd53-c1f0-482c-8d75-be7ecdd1f01f&downloadGroupCode=VRLI460-VCENTER&tagId=9538&productId=742&baseStr=&downloadFileId=b58b40cd3d1057891ce4d66f7be32d34&hashKey=2cf57134c8b758aa4313cb5d7f818524 ==> "
+    ],
+    [
+      1.105006,
+      " 48%\b\b\b\b100%\b\b\b\b"
+    ],
+    [
+      0.004202,
+      "200 OK (1s)\r\n"
+    ],
+    [
+      0.004369,
+      "** GET https://download2.vmware.com/software/strata/VMware-Log-Insight-Importer_4.6.0-7857225.deb?HashKey=2cf57134c8b758aa4313cb5d7f818524&params=%7B%22custnumber%22%3A%22dyVwKmV3ZXR0dA%3D%3D%22%2C%22sourcefilesize%22%3A%225.51+MB%22%2C%22dlgcode%22%3A%22VRLI460-VCENTER%22%2C%22languagecode%22%3A%22en%22%2C%22source%22%3A%22DOWNLOADS%22%2C%22downloadtype%22%3A%22manual%22%2C%22eula%22%3A%22Y%22%2C%22downloaduuid%22%3A%22c9cbb7a3-3d06-4bfc-b1b9-9fc231f804fd%22%2C%22purchased%22%3A%22Y%22%2C%22dlgtype%22%3A%22Product+Binaries%22%2C%22productversion%22%3A%224.6.0%22%2C%22productfamily%22%3A%22VMware+vSphere%22%7D&AuthKey=1528008723_597e651ce9697b3e858efaf280e255e9 ==> "
+    ],
+    [
+      0.488862,
+      "  0%\b\b\b\b"
+    ],
+    [
+      0.073294,
+      "  1%\b\b\b\b"
+    ],
+    [
+      0.158629,
+      "  2%\b\b\b\b"
+    ],
+    [
+      0.157854,
+      "  3%\b\b\b\b"
+    ],
+    [
+      0.162328,
+      "  4%\b\b\b\b"
+    ],
+    [
+      0.15893,
+      "  5%\b\b\b\b"
+    ],
+    [
+      0.160891,
+      "  6%\b\b\b\b"
+    ],
+    [
+      0.159612,
+      "  7%\b\b\b\b"
+    ],
+    [
+      0.156957,
+      "  8%\b\b\b\b"
+    ],
+    [
+      0.162455,
+      "  9%\b\b\b\b"
+    ],
+    [
+      0.158009,
+      " 10%\b\b\b\b"
+    ],
+    [
+      0.158482,
+      " 11%\b\b\b\b"
+    ],
+    [
+      0.162647,
+      " 12%\b\b\b\b"
+    ],
+    [
+      0.158166,
+      " 13%\b\b\b\b"
+    ],
+    [
+      0.158784,
+      " 14%\b\b\b\b"
+    ],
+    [
+      0.17515,
+      " 15%\b\b\b\b"
+    ],
+    [
+      0.158305,
+      " 16%\b\b\b\b"
+    ],
+    [
+      0.1594,
+      " 17%\b\b\b\b"
+    ],
+    [
+      0.161032,
+      " 18%\b\b\b\b"
+    ],
+    [
+      0.192439,
+      " 19%\b\b\b\b"
+    ],
+    [
+      0.158547,
+      " 20%\b\b\b\b"
+    ],
+    [
+      0.162093,
+      " 21%\b\b\b\b"
+    ],
+    [
+      0.158172,
+      " 22%\b\b\b\b"
+    ],
+    [
+      0.158164,
+      " 23%\b\b\b\b"
+    ],
+    [
+      0.162745,
+      " 24%\b\b\b\b"
+    ],
+    [
+      0.158901,
+      " 25%\b\b\b\b"
+    ],
+    [
+      0.157924,
+      " 26%\b\b\b\b"
+    ],
+    [
+      0.162503,
+      " 27%\b\b\b\b"
+    ],
+    [
+      0.157975,
+      " 28%\b\b\b\b"
+    ],
+    [
+      0.158677,
+      " 29%\b\b\b\b"
+    ],
+    [
+      0.162615,
+      " 30%\b\b\b\b"
+    ],
+    [
+      0.158151,
+      " 31%\b\b\b\b"
+    ],
+    [
+      0.157386,
+      " 32%\b\b\b\b"
+    ],
+    [
+      0.16321,
+      " 33%\b\b\b\b"
+    ],
+    [
+      0.158136,
+      " 34%\b\b\b\b"
+    ],
+    [
+      0.204319,
+      " 35%\b\b\b\b"
+    ],
+    [
+      0.162932,
+      " 36%\b\b\b\b"
+    ],
+    [
+      0.160314,
+      " 37%\b\b\b\b"
+    ],
+    [
+      0.156325,
+      " 38%\b\b\b\b"
+    ],
+    [
+      0.162066,
+      " 39%\b\b\b\b"
+    ],
+    [
+      0.159806,
+      " 40%\b\b\b\b"
+    ],
+    [
+      0.156823,
+      " 41%\b\b\b\b"
+    ],
+    [
+      0.16239,
+      " 42%\b\b\b\b"
+    ],
+    [
+      0.159877,
+      " 43%\b\b\b\b"
+    ],
+    [
+      0.157149,
+      " 44%\b\b\b\b"
+    ],
+    [
+      0.162034,
+      " 45%\b\b\b\b"
+    ],
+    [
+      0.158934,
+      " 46%\b\b\b\b"
+    ],
+    [
+      0.158468,
+      " 47%\b\b\b\b"
+    ],
+    [
+      0.162125,
+      " 48%\b\b\b\b"
+    ],
+    [
+      0.158071,
+      " 49%\b\b\b\b"
+    ],
+    [
+      0.158407,
+      " 50%\b\b\b\b"
+    ],
+    [
+      0.162426,
+      " 51%\b\b\b\b"
+    ],
+    [
+      0.158155,
+      " 52%\b\b\b\b"
+    ],
+    [
+      0.158353,
+      " 53%\b\b\b\b"
+    ],
+    [
+      0.161998,
+      " 54%\b\b\b\b"
+    ],
+    [
+      0.158504,
+      " 55%\b\b\b\b"
+    ],
+    [
+      0.193106,
+      " 56%\b\b\b\b"
+    ],
+    [
+      0.159581,
+      " 57%\b\b\b\b"
+    ],
+    [
+      0.160902,
+      " 58%\b\b\b\b"
+    ],
+    [
+      0.15855,
+      " 59%\b\b\b\b"
+    ],
+    [
+      0.158113,
+      " 60%\b\b\b\b"
+    ],
+    [
+      0.162079,
+      " 61%\b\b\b\b"
+    ],
+    [
+      0.158812,
+      " 62%\b\b\b\b"
+    ],
+    [
+      0.15804,
+      " 63%\b\b\b\b"
+    ],
+    [
+      0.162142,
+      " 64%\b\b\b\b"
+    ],
+    [
+      0.158322,
+      " 65%\b\b\b\b"
+    ],
+    [
+      0.158605,
+      " 66%\b\b\b\b"
+    ],
+    [
+      0.162889,
+      " 67%\b\b\b\b"
+    ],
+    [
+      0.157851,
+      " 68%\b\b\b\b"
+    ],
+    [
+      0.158159,
+      " 69%\b\b\b\b"
+    ],
+    [
+      0.162559,
+      " 70%\b\b\b\b"
+    ],
+    [
+      0.157926,
+      " 71%\b\b\b\b"
+    ],
+    [
+      0.204362,
+      " 72%\b\b\b\b"
+    ],
+    [
+      0.162378,
+      " 73%\b\b\b\b"
+    ],
+    [
+      0.15895,
+      " 74%\b\b\b\b"
+    ],
+    [
+      0.158658,
+      " 75%\b\b\b\b"
+    ],
+    [
+      0.161748,
+      " 76%\b\b\b\b"
+    ],
+    [
+      0.158861,
+      " 77%\b\b\b\b"
+    ],
+    [
+      0.158484,
+      " 78%\b\b\b\b"
+    ],
+    [
+      0.161953,
+      " 79%\b\b\b\b"
+    ],
+    [
+      0.158319,
+      " 80%\b\b\b\b"
+    ],
+    [
+      0.158371,
+      " 81%\b\b\b\b"
+    ],
+    [
+      0.162112,
+      " 82%\b\b\b\b"
+    ],
+    [
+      0.158547,
+      " 83%\b\b\b\b"
+    ],
+    [
+      0.158149,
+      " 84%\b\b\b\b"
+    ],
+    [
+      0.162369,
+      " 85%\b\b\b\b"
+    ],
+    [
+      0.158789,
+      " 86%\b\b\b\b"
+    ],
+    [
+      0.158144,
+      " 87%\b\b\b\b"
+    ],
+    [
+      0.162614,
+      " 88%\b\b\b\b"
+    ],
+    [
+      0.158508,
+      " 89%\b\b\b\b"
+    ],
+    [
+      0.157673,
+      " 90%\b\b\b\b"
+    ],
+    [
+      0.162205,
+      " 91%\b\b\b\b"
+    ],
+    [
+      0.158427,
+      " 92%\b\b\b\b"
+    ],
+    [
+      0.192662,
+      " 93%\b\b\b\b"
+    ],
+    [
+      0.157548,
+      " 94%\b\b\b\b"
+    ],
+    [
+      0.162005,
+      " 95%\b\b\b\b"
+    ],
+    [
+      0.158829,
+      " 96%\b\b\b\b"
+    ],
+    [
+      0.158424,
+      " 97%\b\b\b\b"
+    ],
+    [
+      0.169272,
+      " 98%\b\b\b\b"
+    ],
+    [
+      0.158746,
+      " 99%\b\b\b\b"
+    ],
+    [
+      0.157971,
+      "100%\b\b\b\b"
+    ],
+    [
+      0.071534,
+      "200 OK (17s)\r\n"
+    ],
+    [
+      0.018038,
+      "Realigning inertial dampeners for: https://my.vmware.com\r\n$VAR1 = {\r\n          'fileName' => 'VMware-Log-Insight-Importer_4.6.0-7857225.deb',\r\n          'name' => 'VMware vRealize Log Insight 4.6.0 - Importer for Debian',\r\n          'fileDate' => '2018-04-12',\r\n          'md5sum' => 'b58b40cd3d1057891ce4d66f7be32d34',\r\n          'descr' => '',\r\n          'sha256sum' => 'ca41331106d5c1e90a68d12598f96c10a63966a6d4cee5628db2713b0737cb3c',\r\n          'fileSize' => '5.51 MB',\r\n          'buildNum' => '7857225',\r\n          'fileType' => 'deb',\r\n          'sha1sum' => '22c96e0090a396edae3b0e835f2b87e99fff60c4',\r\n          'download' => {\r\n                          'vmware' => 'downloadBinary',\r\n                          'uuId' => '652fbd53-c1f0-482c-8d75-be7ecdd1f01f',\r\n                          'downloadGroupCode' => 'VRLI460-VCENTER',\r\n                          'tagId' => '9538',\r\n                          'productId' => '742',\r\n                          'baseStr' => '',\r\n                          'downloadFileId'"
+    ],
+    [
+      2.9e-05,
+      " => 'b58b40cd3d1057891ce4d66f7be32d34',\r\n                          'hashKey' => '2cf57134c8b758aa4313cb5d7f818524'\r\n                        }\r\n        };\r\nhttps://my.vmware.com/group/vmware/details?p_p_id=ProductDetailsPortlet_WAR_itdownloadsportlet&p_p_lifecycle=2&p_p_state=normal&p_p_mode=view&p_p_resource_id=downloadFiles&p_p_cacheability=cacheLevelPage&p_p_col_id=column-6&p_p_col_count=1&vmware=downloadBinary&uuId=652fbd53-c1f0-482c-8d75-be7ecdd1f01f&downloadGroupCode=VRLI460-VCENTER&tagId=9538&productId=742&baseStr=&downloadFileId=b58b40cd3d1057891ce4d66f7be32d34&hashKey=2cf57134c8b758aa4313cb5d7f818524\r\nMD5 Match! local: [b58b40cd3d1057891ce4d66f7be32d34] remote: [b58b40cd3d1057891ce4d66f7be32d34]\r\n"
+    ],
+    [
+      0.175262,
+      "\u001b]777;notify;Command completed;myvmw get VMware-Log-Insight-Importer_4.6.0-7857225.deb\u0007\u001b]0;apnex@obpc:/home/apnex/vmware/lab/nuc/docker/git/myvmw/asciicast\u0007\u001b]7;file://obpc/home/apnex/vmware/lab/nuc/docker/git/myvmw/asciicast\u0007"
+    ],
+    [
+      7.1e-05,
+      "[root@obpc asciicast]# "
+    ]
+  ],
+  "command": null,
+  "env": {
+    "TERM": "xterm-256color",
+    "SHELL": "/bin/bash"
+  },
+  "version": 1,
+  "duration": 32.232202,
+  "height": 52,
+  "title": null
+}

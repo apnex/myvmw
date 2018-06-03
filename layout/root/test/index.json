@@ -1,0 +1,286 @@
+[
+	{
+		"name": "Pivotal App Suite",
+		"link": "./info/slug/application_platform/pivotal_app_suite/2_0"
+	},
+	{
+		"name": "Pivotal CF Mobile Services",
+		"link": "./info/slug/application_platform/pivotal_cf_mobile_services/1_0"
+	},
+	{
+		"name": "Pivotal CF Services",
+		"link": "./info/slug/application_platform/pivotal_cf_services/1_0"
+	},
+	{
+		"name": "Pivotal Cloud Foundry",
+		"link": "./info/slug/application_platform/pivotal_cloud_foundry/1_0"
+	},
+	{
+		"name": "Pivotal GemFire",
+		"link": "./info/slug/application_platform/pivotal_gemfire/9_0"
+	},
+	{
+		"name": "Pivotal GemFireXD",
+		"link": "./info/slug/application_platform/pivotal_gemfirexd/1_0"
+	},
+	{
+		"name": "Pivotal RabbitMQ",
+		"link": "./info/slug/application_platform/pivotal_rabbitmq/3_5"
+	},
+	{
+		"name": "Pivotal tc Server",
+		"link": "./info/slug/application_platform/pivotal_tc_server/3_1"
+	},
+	{
+		"name": "Pivotal WebServer",
+		"link": "./info/slug/application_platform/pivotal_webserver/6_0"
+	},
+	{
+		"name": "VMware App Volumes",
+		"link": "./info/slug/desktop_end_user_computing/vmware_app_volumes/3_x"
+	},
+	{
+		"name": "VMware AppDefense",
+		"link": "./info/slug/infrastructure_as_a_service/vmware_appdefense/1_0"
+	},
+	{
+		"name": "VMware Cloud Foundation",
+		"link": "./info/slug/datacenter_cloud_infrastructure/vmware_cloud_foundation/2_3"
+	},
+	{
+		"name": "VMware Cloud on AWS",
+		"link": "./info/slug/infrastructure_as_a_service/vmware_cloud_on_aws/1_3"
+	},
+	{
+		"name": "VMware Fusion",
+		"link": "./info/slug/desktop_end_user_computing/vmware_fusion/10_0"
+	},
+	{
+		"name": "VMware Horizon",
+		"link": "./info/slug/desktop_end_user_computing/vmware_horizon/7_4"
+	},
+	{
+		"name": "VMware Horizon (with View)",
+		"link": "./info/slug/desktop_end_user_computing/vmware_horizon_with_view/6_0"
+	},
+	{
+		"name": "VMware Horizon Air",
+		"link": "./info/slug/desktop_end_user_computing/vmware_horizon_air/16_6"
+	},
+	{
+		"name": "VMware Horizon Air Hybrid-Mode (with Virtualization)",
+		"link": "./info/slug/desktop_end_user_computing/vmware_horizon_air_hybrid_mode_with_virtualization/1_0"
+	},
+	{
+		"name": "VMware Horizon Apps",
+		"link": "./info/slug/desktop_end_user_computing/vmware_horizon_apps/7_4_0"
+	},
+	{
+		"name": "VMware Horizon Clients",
+		"link": "./info/slug/desktop_end_user_computing/vmware_horizon_clients/4_0"
+	},
+	{
+		"name": "VMware Horizon Cloud Service",
+		"link": "./info/slug/desktop_end_user_computing/vmware_horizon_cloud_service/1_2"
+	},
+	{
+		"name": "VMware Horizon DaaS",
+		"link": "./info/slug/desktop_end_user_computing/vmware_horizon_daas/8_0"
+	},
+	{
+		"name": "VMware Horizon FLEX",
+		"link": "./info/slug/desktop_end_user_computing/vmware_horizon_flex/1_12"
+	},
+	{
+		"name": "VMware Identity Manager",
+		"link": "./info/slug/desktop_end_user_computing/vmware_identity_manager/3_2"
+	},
+	{
+		"name": "VMware Integrated OpenStack",
+		"link": "./info/slug/infrastructure_operations_management/vmware_integrated_openstack/4_1"
+	},
+	{
+		"name": "VMware Internet of things",
+		"link": "./info/slug/internet_of_things_iot/vmware_internet_of_things/1_0"
+	},
+	{
+		"name": "VMware Mirage",
+		"link": "./info/slug/desktop_end_user_computing/vmware_mirage/5_0"
+	},
+	{
+		"name": "VMware NSX",
+		"link": "./info/slug/networking_security/vmware_nsx/6_x"
+	},
+	{
+		"name": "VMware NSX Cloud",
+		"link": "./info/slug/infrastructure_as_a_service/vmware_nsx_cloud/1_0"
+	},
+	{
+		"name": "VMware NSX SD-WAN Edge",
+		"link": "./info/slug/networking_security/vmware_nsx_sd_wan_edge/3_2_0"
+	},
+	{
+		"name": "VMware Photon Platform",
+		"link": "./info/slug/infrastructure_operations_management/vmware_photon_platform/1_2"
+	},
+	{
+		"name": "VMware Pivotal Container Service",
+		"link": "./info/slug/infrastructure_operations_management/vmware_pivotal_container_service/1_0"
+	},
+	{
+		"name": "VMware Site Recovery Manager",
+		"link": "./info/slug/infrastructure_operations_management/vmware_site_recovery_manager/8_1"
+	},
+	{
+		"name": "VMware Software Manager",
+		"link": "./info/slug/datacenter_cloud_infrastructure/vmware_software_manager/1_5"
+	},
+	{
+		"name": "VMware ThinApp",
+		"link": "./info/slug/desktop_end_user_computing/vmware_thinapp/5_0"
+	},
+	{
+		"name": "VMware TrustPoint",
+		"link": "./info/slug/desktop_end_user_computing/vmware_trustpoint/1_0"
+	},
+	{
+		"name": "VMware Unified Access Gateway",
+		"link": "./info/slug/desktop_end_user_computing/vmware_unified_access_gateway/3_2"
+	},
+	{
+		"name": "VMware User Environment Manager",
+		"link": "./info/slug/desktop_end_user_computing/vmware_user_environment_manager/9_3"
+	},
+	{
+		"name": "VMware Validated Design for Software-Defined Data Center",
+		"link": "./info/slug/datacenter_cloud_infrastructure/vmware_validated_design_for_software_defined_data_center/4_2"
+	},
+	{
+		"name": "VMware vCenter Converter Standalone",
+		"link": "./info/slug/infrastructure_operations_management/vmware_vcenter_converter_standalone/6_2_0"
+	},
+	{
+		"name": "VMware vCloud Air",
+		"link": "./info/slug/infrastructure_as_a_service/vmware_vcloud_air/1_0"
+	},
+	{
+		"name": "VMware vCloud Availability for vCloud Director",
+		"link": "./info/slug/datacenter_cloud_infrastructure/vmware_vcloud_availability_for_vcloud_director/2_0_0"
+	},
+	{
+		"name": "VMware vCloud Director",
+		"link": "./info/slug/datacenter_cloud_infrastructure/vmware_vcloud_director/9_1"
+	},
+	{
+		"name": "VMware vCloud NFV",
+		"link": "./info/slug/datacenter_cloud_infrastructure/vmware_vcloud_nfv/2_1"
+	},
+	{
+		"name": "VMware vCloud NFV OpenStack Edition",
+		"link": "./info/slug/datacenter_cloud_infrastructure/vmware_vcloud_nfv_openstack_edition/2_0"
+	},
+	{
+		"name": "VMware vCloud Suite",
+		"link": "./info/slug/datacenter_cloud_infrastructure/vmware_vcloud_suite/2017"
+	},
+	{
+		"name": "VMware vCloud Usage Meter",
+		"link": "./info/slug/datacenter_cloud_infrastructure/vmware_vcloud_usage_meter/3_6_1"
+	},
+	{
+		"name": "VMware vFabric SQLFire",
+		"link": "./info/slug/application_platform/vmware_vfabric_sqlfire/1_0"
+	},
+	{
+		"name": "VMware VMmark",
+		"link": "./info/slug/other/vmware_vmmark/3_x"
+	},
+	{
+		"name": "VMware vRealize Automation",
+		"link": "./info/slug/infrastructure_operations_management/vmware_vrealize_automation/7_4"
+	},
+	{
+		"name": "VMware vRealize Business for Cloud",
+		"link": "./info/slug/infrastructure_operations_management/vmware_vrealize_business_for_cloud/7_4"
+	},
+	{
+		"name": "VMware vRealize Code Stream",
+		"link": "./info/slug/infrastructure_operations_management/vmware_vrealize_code_stream/2_x"
+	},
+	{
+		"name": "VMware vRealize Hyperic",
+		"link": "./info/slug/infrastructure_operations_management/vmware_vrealize_hyperic/5_8"
+	},
+	{
+		"name": "VMware vRealize Log Insight",
+		"link": "./info/slug/infrastructure_operations_management/vmware_vrealize_log_insight/4_6"
+	},
+	{
+		"name": "VMware vRealize Network Insight",
+		"link": "./info/slug/infrastructure_operations_management/vmware_vrealize_network_insight/3_x"
+	},
+	{
+		"name": "VMware vRealize Operations",
+		"link": "./info/slug/infrastructure_operations_management/vmware_vrealize_operations/6_7"
+	},
+	{
+		"name": "VMware vRealize Operations for Horizon and Published Applications",
+		"link": "./info/slug/desktop_end_user_computing/vmware_vrealize_operations_for_horizon_and_published_applications/6_0"
+	},
+	{
+		"name": "VMware vRealize Operations Insight",
+		"link": "./info/slug/infrastructure_operations_management/vmware_vrealize_operations_insight/6_1"
+	},
+	{
+		"name": "VMware vRealize Suite",
+		"link": "./info/slug/infrastructure_operations_management/vmware_vrealize_suite/2017"
+	},
+	{
+		"name": "VMware vSAN",
+		"link": "./info/slug/datacenter_cloud_infrastructure/vmware_vsan/6_7"
+	},
+	{
+		"name": "VMware vSphere",
+		"link": "./info/slug/datacenter_cloud_infrastructure/vmware_vsphere/6_7"
+	},
+	{
+		"name": "VMware vSphere Data Protection Advanced",
+		"link": "./info/slug/datacenter_cloud_infrastructure/vmware_vsphere_data_protection_advanced/5_8"
+	},
+	{
+		"name": "VMware vSphere Hypervisor (ESXi)",
+		"link": "./info/slug/datacenter_cloud_infrastructure/vmware_vsphere_hypervisor_esxi/6_5"
+	},
+	{
+		"name": "VMware vSphere Integrated Containers",
+		"link": "./info/slug/datacenter_cloud_infrastructure/vmware_vsphere_integrated_containers/1_3"
+	},
+	{
+		"name": "VMware vSphere Storage Appliance",
+		"link": "./info/slug/datacenter_cloud_infrastructure/vmware_vsphere_storage_appliance/5_5"
+	},
+	{
+		"name": "VMware vSphere with Operations Management",
+		"link": "./info/slug/datacenter_cloud_infrastructure/vmware_vsphere_with_operations_management/6_7"
+	},
+	{
+		"name": "VMware Workspace",
+		"link": "./info/slug/desktop_end_user_computing/vmware_workspace/2_0"
+	},
+	{
+		"name": "VMware Workspace ONE",
+		"link": "./info/slug/desktop_end_user_computing/vmware_workspace_one/1_0"
+	},
+	{
+		"name": "VMware Workstation Player",
+		"link": "./free#desktop_end_user_computing/vmware_workstation_player/14_0"
+	},
+	{
+		"name": "VMware Workstation Pro",
+		"link": "./info/slug/desktop_end_user_computing/vmware_workstation_pro/14_0"
+	},
+	{
+		"name": "VMware NSX-T",
+		"link": "./info/slug/networking_security/vmware_nsx/2_x"
+	}
+]

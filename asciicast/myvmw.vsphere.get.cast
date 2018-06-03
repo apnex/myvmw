@@ -1,0 +1,142 @@
+{
+  "duration": 32.08893,
+  "command": null,
+  "width": 211,
+  "title": null,
+  "height": 52,
+  "stdout": [
+    [
+      0.061278,
+      "\u001b]777;notify;Command completed;myvmw \"VMware vSphere\"\u0007\u001b]0;apnex@obpc:/home/apnex/vmware/lab/nuc/docker/git/myvmw/asciicast\u0007\u001b]7;file://obpc/home/apnex/vmware/lab/nuc/docker/git/myvmw/asciicast\u0007"
+    ],
+    [
+      0.000149,
+      "[root@obpc asciicast]# "
+    ],
+    [
+      0.538267,
+      "m"
+    ],
+    [
+      0.149763,
+      "y"
+    ],
+    [
+      0.348552,
+      "v"
+    ],
+    [
+      0.142596,
+      "m"
+    ],
+    [
+      0.123795,
+      "w"
+    ],
+    [
+      0.161724,
+      " "
+    ],
+    [
+      0.227102,
+      "g"
+    ],
+    [
+      0.133219,
+      "e"
+    ],
+    [
+      0.086517,
+      "t"
+    ],
+    [
+      0.559486,
+      " "
+    ],
+    [
+      1.844782,
+      "V"
+    ],
+    [
+      9.8e-05,
+      "Mwa"
+    ],
+    [
+      6.8e-05,
+      "r"
+    ],
+    [
+      0.001294,
+      "e-VMvisor-Installer-6.7.0-8169922.x86_64.iso"
+    ],
+    [
+      0.890672,
+      "\r\n"
+    ],
+    [
+      7.445408,
+      "** GET https://my.vmware.com/group/vmware/details?p_p_id=ProductDetailsPortlet_WAR_itdownloadsportlet&p_p_lifecycle=2&p_p_state=normal&p_p_mode=view&p_p_resource_id=downloadFiles&p_p_cacheability=cacheLevelPage&p_p_col_id=column-6&p_p_col_count=1&vmware=downloadBinary&uuId=f4fa9947-85e7-4ffd-8287-9519bf903eb8&downloadGroupCode=ESXI670&tagId=9571&productId=742&baseStr=&downloadFileId=bd218f0f26510e690695116d8628e4af&hashKey=36b063547c77ff668a465418efcb078d ==> "
+    ],
+    [
+      1.658367,
+      " 49%\b\b\b\b100%\b\b\b\b"
+    ],
+    [
+      0.003604,
+      "200 OK (1s)\r\n"
+    ],
+    [
+      0.002089,
+      "** GET https://download2.vmware.com/software/esx/67/VMware-VMvisor-Installer-6.7.0-8169922.x86_64.iso?HashKey=36b063547c77ff668a465418efcb078d&params=%7B%22custnumber%22%3A%22dyVwKmV3ZXR0dA%3D%3D%22%2C%22sourcefilesize%22%3A%22330.31+MB%22%2C%22dlgcode%22%3A%22ESXI670%22%2C%22languagecode%22%3A%22en%22%2C%22source%22%3A%22DOWNLOADS%22%2C%22downloadtype%22%3A%22manual%22%2C%22eula%22%3A%22Y%22%2C%22downloaduuid%22%3A%227be3fc95-6a0d-4b1d-a438-d2c7c1635eb3%22%2C%22purchased%22%3A%22Y%22%2C%22dlgtype%22%3A%22Product+Binaries%22%2C%22productversion%22%3A%226.7.0%22%2C%22productfamily%22%3A%22VMware+vSphere%22%7D&AuthKey=1528008604_e1609c62aef6ce7a702a10dfddc42bc4 ==> "
+    ],
+    [
+      0.536906,
+      "  0%\b\b\b\b"
+    ],
+    [
+      4.82181,
+      "  1%\b\b\b\b"
+    ],
+    [
+      9.726263,
+      "  2%\b\b\b\b"
+    ],
+    [
+      2.042782,
+      "^C"
+    ],
+    [
+      0.002986,
+      "Stopping PID 7\r\n"
+    ],
+    [
+      0.144352,
+      "\u001b]777;notify;Command completed;myvmw get VMware-VMvisor-Installer-6.7.0-8169922.x86_64.iso\u0007\u001b]0;apnex@obpc:/home/apnex/vmware/lab/nuc/docker/git/myvmw/asciicast\u0007\u001b]7;file://obpc/home/apnex/vmware/lab/nuc/docker/git/myvmw/asciicast\u0007"
+    ],
+    [
+      2.7e-05,
+      "[root@obpc asciicast]# "
+    ],
+    [
+      0.42354,
+      "^C"
+    ],
+    [
+      0.000378,
+      "\r\n"
+    ],
+    [
+      0.009581,
+      "\u001b]777;notify;Command completed;myvmw get VMware-VMvisor-Installer-6.7.0-8169922.x86_64.iso\u0007\u001b]0;apnex@obpc:/home/apnex/vmware/lab/nuc/docker/git/myvmw/asciicast\u0007\u001b]7;file://obpc/home/apnex/vmware/lab/nuc/docker/git/myvmw/asciicast\u0007"
+    ],
+    [
+      0.000104,
+      "[root@obpc asciicast]# "
+    ]
+  ],
+  "env": {
+    "SHELL": "/bin/bash",
+    "TERM": "xterm-256color"
+  },
+  "version": 1
+}

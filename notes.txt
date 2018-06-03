@@ -1,0 +1,21 @@
+todo: v1.1
+
+DONE: cleanup output
+-- suppress login calls
+-- fix download column
+DONE: add NSX-T to product categories -- work out how files are linked to home page
+
+DONE: add bash installer to create myvmw command in shell
+DONE: add an "install" keyword to generate bash myvmw-install.sh script
+DONE: run script to build config.json and copy myvmw to $HOME/bin (create if missing)
+
+- construct bash autocompletion file from product index after first run
+
+- add 'all' to index all files
+-- this will loop through all categories
+
+- if all.json exists and is less than 60 mins old - don't re-index
+-- same for other product.json files - work out how to timestamp -- product-WKST-DATE.json ??
+
+# updated install command - test if works on ALPINE
+/bin/sh -c "$(docker run apnex/myvmw install)"

@@ -1,0 +1,43 @@
+#!/bin/bash
+# my.vmware.com login code
+
+USER='username'
+PASS='password'
+
+function login {
+	URL="https://my.vmware.com"
+	printf "Synching delicious cookies from [$URL]\n" 1>&2
+	STEP1=$(curl --location-trusted -c cookies.txt -D headers.txt -X GET \
+	-A "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/60.0.3112.113 Safari/537.36" \
+	-H "Cache-Control: no-cache" \
+	"$URL" 2>/dev/null)
+
+	URL="https://my.vmware.com/oam/server/auth_cred_submit"
+	printf "Offering up afforementioned delicious cookies as a sacrifice to [$URL]\n" 1>&2
+	STEP2=$(curl --location-trusted -c cookies.txt -b cookies.txt -D headers.txt -G -X POST \
+	-A "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/60.0.3112.113 Safari/537.36" \
+	-H "Cache-Control: no-cache" \
+	--data-urlencode "password=$PASS" \
+	--data-urlencode "username=$USER" \
+	--data-urlencode "vmware=login" \
+	"$URL" 2>/dev/null)
+}
+
+function session {
+	SESSIONFILE='cookies.txt'
+	printf "Validating existing session...\n" 1>&2
+	if [ -f $SESSIONFILE ]; then
+		MYDATE=$(stat -c %y "$SESSIONFILE")
+		LAPSE="$(($(date '+%s') - $(date -d "$MYDATE" '+%s')))"
+		printf "File [$SESSIONFILE] exists - age [$LAPSE]\n" 1>&2
+		if [ "$LAPSE" -ge 600 ]; then
+			printf "Session older than [600] seconds, reauthenticating...\n" 1>&2
+			login
+		fi
+	else
+		printf "File [$SESSIONFILE] does not exist - authenticating...\n" 1>&2
+		login
+	fi
+}
+
+session
