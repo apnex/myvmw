@@ -3,32 +3,36 @@ myvmw is a CLI client used to login and interact with the my.vmware.com website.
 Allows for programmatic query and download of VMware product binaries.  
 Built as a docker container
 
-#### Use:
-**Note:** Shell installation is OPTIONAL - if you prefer to use native docker commands you may also use the syntax at the end of this help.
-
-**Download and execute the `myvmw` installer (follow prompts)**
+### Use:
+#### myvmw CLI client installation process ###
+**Download the `myvmw` container from dockerhub**
 <pre>
 docker pull apnex/myvmw
+</pre>
+
+#### 1: Install myvmw CLI client - issue the commands below in a new terminal window  
+- This will download the container from my public dockerhub account and run it  
+- Re-run these install steps at any time if you wish to change credentials or download directory  
+- Default download directory is ~/vmwfiles and the install will create a credentials file called ~/vmwfiles/config.json  
+- Only BASH or ZSH terminals currently supported for SHELL installation  
+
+**Execute the `myvmw` installer (follow prompts)**  
+**Note:** Shell installation is OPTIONAL - if you prefer to use native docker commands you may alternatively use the syntax at the end of this README.
+<pre>
 docker run apnex/myvmw install > install.sh
 chmod 755 install.sh
 ./install.sh
+source /root/.bashrc
 </pre>
 
-`insert terminal animation`
-
-### myvmw CLI client BASH/ZSH installation process ###
-1) Install myvmw CLI client - issue the commands below in a new terminal window  
--- This will download the container from my public dockerhub account and run it  
--- Re-run these install steps at any time if you wish to change credentials or download directory  
--- Default download directory is ~/vmwfiles and the install will create a credentials file called ~/vmwfiles/config.json  
--- Only BASH or ZSH terminals currently supported for SHELL installation  
+![myvmw.install](asciicast/myvmw.install.cast.svg)
 
 #### 2: Run the myvmw client
 <pre>
 myvmw
 </pre>
 
-This will log in to my.vmware.com and list the available product categories
+This will log in to `https://my.vmware.com` and list the available product categories
 
 #### 3: Command syntax examples
 **view this help again**
@@ -40,6 +44,7 @@ myvmw help
 <pre>
 myvmw
 </pre>
+
 ![myvmw](asciicast/myvmw.cast.svg)
 
 **view available files in a specific category (note use of double-quotes)**
@@ -56,12 +61,14 @@ myvmw get <filename>
 ```
 myvmw "VMware NSX-T"
 ```
-![myvmw](asciicast/myvmw.nsx.cast.svg)
+
+![myvmw.nsx](asciicast/myvmw.nsx.cast.svg)
 
 **download NSX-T Manager OVA**
 ```
-myvmw get nsx-unified-appliance-2.0.0.0.0.6522097.ova
+myvmw get nsx-unified-appliance-2.1.0.0.0.7395503.ova
 ```
+Once complete, the download will be located in your **vmwfiles** folder that was specified during installation.
 
 #### Manually running the docker container (no SHELL integration)
 1) Create a new empty local directory, ie 'mkdir vmwfiles' - this will be used for file downloads.  
