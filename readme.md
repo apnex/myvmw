@@ -1,3 +1,6 @@
+# DEPRECATED - NO LONGER DEVELOPED
+Instead - please use: https://github.com/apnex/vmw-cli  
+
 ### myvmw : CLI for my.vmware.com
 myvmw is a CLI client used to login and interact with the my.vmware.com website.  
 Allows for programmatic query and download of VMware product binaries.  
